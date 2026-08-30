@@ -4,11 +4,7 @@ Nombre del producto: Mysubs - Gestor Inteligente de Suscripciones.
 
 Problema principal: La economía de suscripción ha llevado a los usuarios a perder el control y la visibilidad sobre sus gastos recurrentes. Esto resulta en "gastos fantasma" por pruebas gratuitas olvidadas, cargos automáticos no planificados y una subestimación del impacto acumulado de estos pagos en el presupuesto personal o familiar.
 
-Usuarios: El producto está diseñado para un amplio espectro de usuarios finales, pero se han identificado dos perfiles clave:
-
-Mateo, el Joven Digital (21 años): Estudiante, usuario intensivo de tecnología que busca evitar cargos inesperados y optimizar sus gastos en múltiples servicios.
-
-Sofía, la Jefa de Hogar (38 años): Madre de familia que gestiona el presupuesto del hogar y necesita un control centralizado y claro de las suscripciones familiares para planificar los flujos de caja.
+Usuarios: El producto está diseñado para un amplio espectro de usuarios finales.
 
 Objetivos:
 
