@@ -1,5 +1,6 @@
 # MysubsControl
 A. Resumen Ejecutivo
+
 Nombre del producto: Mysubs - Gestor Inteligente de Suscripciones.
 
 Problema principal: La economía de suscripción ha llevado a los usuarios a perder el control y la visibilidad sobre sus gastos recurrentes. Esto resulta en "gastos fantasma" por pruebas gratuitas olvidadas, cargos automáticos no planificados y una subestimación del impacto acumulado de estos pagos en el presupuesto personal o familiar.
